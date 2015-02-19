@@ -1,0 +1,64 @@
+body{
+	padding:0;
+	margin:0;
+	color:#000;
+	background:#414141;
+}
+
+#container {
+	width:1000px;
+	margin:auto;
+}
+
+table {
+	width:1000px;
+	border-collapse: collapse;
+}
+
+table th {
+	background:#a8a7a8;
+	cursor:pointer;
+	border-right: 1px solid #a8a7a8;
+	border-bottom: 1px solid #a8a7a8;
+	border-left: 1px solid #a8a7a8;
+	padding:5px;
+}
+
+table .action{
+	background:#4554e7;
+	cursor:pointer;
+	border-right: 1px solid #a8a7a8;
+	border-bottom: 1px solid #a8a7a8;
+	border-left: 1px solid #a8a7a8;
+	padding:5px;
+	cursor:default;
+}
+
+table td {
+	background:#d8d7d8;
+	text-align:center;
+	border-right: 1px solid #a8a7a8;
+	border-bottom: 1px solid #a8a7a8;
+	border-left: 1px solid #a8a7a8;
+	padding:5px;
+}
+
+select, button {
+	padding:5px 5px;
+	margin:5px 0;
+}
+
+#paging  {
+	padding:5px 0px;
+	margin:5px 0;
+}
+
+#paging  span {
+	padding:5px;
+	background:#a8a7a8;
+	cursor:pointer;
+}
+
+#paging  span:hover {
+	background:#d8d7d8;
+}

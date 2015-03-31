@@ -1,2 +1,2 @@
 # DataTableCustom
-Create function datatable (Sorting, Pagination, etc) with JQuery
+Create function datatable (Sorting, Pagination, etc) with JQuery from scracth
